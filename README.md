@@ -7,6 +7,6 @@ by a group of students for an Introduction to Software Development course.
 
 The project went through 3 iterations,
 with each iteration focused on different adaptive methods under Agile, including:
--Scrum
--XP (extreme programming)
--UP (unified practice)
+Scrum, 
+XP (extreme programming), 
+UP (unified practice)
